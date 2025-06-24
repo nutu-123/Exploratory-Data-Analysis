@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Mini project that explores the Netflix dataset to analyze how content has changed over the years. It uses Python libraries like Pandas and Seaborn to visualize trends in the year-wise addition of movies and TV shows.
+Mini project that explores the Netflix dataset to analyze how content has changed over the years. It uses Python libraries like Pandas and Seaborn to visualize trends in the year-wise addition of movies and TV shows. We use various Python libraries like Pandas, Seaborn, and Plotly to visualize the data. From basic statistics to interactive graphs, the project helps understand how Netflix has grown and what kind of content is trending. This analysis is useful for both data exploration practice and business insight generation.
